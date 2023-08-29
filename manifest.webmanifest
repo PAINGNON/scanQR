@@ -3,12 +3,12 @@
     "short_name": "PAING NON",
     "icons": [
       {
-        "src": "paingnon.png",
+        "src": "sqptgs.png",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "paingnon.png",
+        "src": "sqptgs.png",
         "sizes": "512x512",
         "type": "image/png"
       }
@@ -17,8 +17,8 @@
     "categories": ["utilites", "productivity", "calculator"],
     "screenshots" : [
         {
-            "src": "paingnon.png",
-            "sizes": "1280x889",
+            "src": "sqptgs.png",
+            "sizes": "256x256",
             "type": "image/jpeg",
             "platform": "wide",
             "label": "Calculator for iPad (using Stage Manager mode)"
